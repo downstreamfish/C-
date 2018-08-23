@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521611357 source:e:\c programs\invent\readline.c
+	<ctype.h>
+	<stdio.h>
+	"readline.h"
+
+1521611000 e:\c programs\invent\readline.h
+
+1521611975 source:e:\c programs\invent\invent.c
+	<stdio.h>
+	<stdlib.h>
+	"readline.h"
+

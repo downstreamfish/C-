@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1521387167 source:e:\c programs\fmt\fmt.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"word.h"
+	"line.h"
+
+1521384969 e:\c programs\fmt\word.h
+
+1521387277 e:\c programs\fmt\line.h
+
+1521387277 source:e:\c programs\fmt\line.h
+
+1521384969 source:e:\c programs\fmt\word.h
+

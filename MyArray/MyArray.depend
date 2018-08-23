@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1522492933 source:e:\c programs\myarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"marray.h"
+
+1522492866 e:\c programs\myarray\marray.h
+
+1522492866 source:e:\c programs\myarray\marray.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522494135 source:e:\c programs\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pnt.h"
+
+1522493985 e:\c programs\hello\pnt.h
+
+1522494159 source:e:\c programs\hello\pnt.c
+	<stdio.h>
+	"pnt.h"
+

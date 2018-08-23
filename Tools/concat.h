@@ -1,0 +1,5 @@
+#ifndef CONCAT_H
+#define CONCAT_H
+char* concat(const char *str1,const char *str2);
+
+#endif
